@@ -1,0 +1,13 @@
+{
+  "description": "A WePY project",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxfcc12461b0dc1963",
+  "projectname": "larabbs",
+  "miniprogramRoot": "./weapp"
+}
